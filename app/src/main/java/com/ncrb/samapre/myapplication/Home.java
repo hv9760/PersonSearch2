@@ -11,6 +11,7 @@ import android.widget.TextView;
 import com.ncrb.samapre.myapplication.activities.PersonSearch;
 import com.ncrb.samapre.myapplication.activities.PropertySearch;
 import com.ncrb.samapre.myapplication.storage.AppPreferences;
+import com.ncrb.samapre.myapplication.utils.Utils;
 
 public class Home extends AppCompatActivity {
 

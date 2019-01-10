@@ -1,4 +1,4 @@
-package com.ncrb.samapre.myapplication;
+package com.ncrb.samapre.myapplication.utils;
 
 import android.app.AlertDialog;
 import android.content.Context;

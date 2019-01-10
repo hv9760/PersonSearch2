@@ -5,7 +5,7 @@ import android.content.Context;
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;
 
-import com.ncrb.samapre.myapplication.Utils;
+import com.ncrb.samapre.myapplication.utils.Utils;
 
 public class AppPreferences {
 

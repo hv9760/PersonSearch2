@@ -18,7 +18,7 @@ import com.ncrb.samapre.myapplication.JSONPostParams;
 import com.ncrb.samapre.myapplication.MCoCoRy;
 import com.ncrb.samapre.myapplication.R;
 import com.ncrb.samapre.myapplication.Singleton;
-import com.ncrb.samapre.myapplication.Utils;
+import com.ncrb.samapre.myapplication.utils.Utils;
 import com.ncrb.samapre.myapplication.WSPLoginConnect;
 import com.ncrb.samapre.myapplication.WSPReqSedition;
 import com.squareup.okhttp.OkHttpClient;

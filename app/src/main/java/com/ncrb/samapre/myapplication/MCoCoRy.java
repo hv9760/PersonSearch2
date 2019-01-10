@@ -3,6 +3,8 @@ package com.ncrb.samapre.myapplication;
 import android.content.Context;
 import android.util.Base64;
 
+import com.ncrb.samapre.myapplication.utils.Utils;
+
 import java.io.UnsupportedEncodingException;
 import java.security.Key;
 import java.security.spec.KeySpec;
