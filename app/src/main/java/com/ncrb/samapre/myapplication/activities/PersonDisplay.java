@@ -22,6 +22,7 @@ import com.ncrb.samapre.myapplication.ApiCaller;
 import com.ncrb.samapre.myapplication.Constants;
 import com.ncrb.samapre.myapplication.JSONPostParams;
 import com.ncrb.samapre.myapplication.MCoCoRy;
+import com.ncrb.samapre.myapplication.PersonSearchAdapter;
 import com.ncrb.samapre.myapplication.R;
 import com.ncrb.samapre.myapplication.WSPLoginConnect;
 import com.squareup.okhttp.OkHttpClient;

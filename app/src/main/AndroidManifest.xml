@@ -30,6 +30,22 @@
             android:resource="@array/preloaded_fonts" />
 
 
+        <activity android:name=".activities.PersonDetails"/>
+        <activity android:name=".activities.PersonDisplay"/>
+        <activity android:name=".activities.PersonMoreDetails"/>
+        <activity android:name=".activities.PersonSearch"/>
+        <activity android:name=".activities.PropertyDetails"/>
+        <activity android:name=".activities.PropertySearch"/>
+        <activity android:name=".activities.MainActivity"
+            >
+            <intent-filter>
+                <category android:name="android.intent.category.LAUNCHER"/>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+
     </application>
+
+
 
 </manifest>

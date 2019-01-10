@@ -19,6 +19,8 @@ import android.widget.Toast;
 import com.github.silvestrpredko.dotprogressbar.DotProgressBar;
 import com.github.silvestrpredko.dotprogressbar.DotProgressBarBuilder;
 import com.ncrb.samapre.myapplication.R;
+import com.ncrb.samapre.myapplication.activities.PersonDetails;
+import com.ncrb.samapre.myapplication.activities.PersonMoreDetails;
 import com.ncrb.samapre.myapplication.responses.PersonDetail;
 
 public class PersonDetailsFragment extends Fragment implements PersonDetails.SendValues {
